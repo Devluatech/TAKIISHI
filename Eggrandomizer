@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KuniDevLua/GrowAGarden/refs/heads/main/EggRandomizer"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/jFH5RScUTC/0", true))()
